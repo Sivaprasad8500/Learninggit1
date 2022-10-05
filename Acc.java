@@ -5,7 +5,7 @@ public class Account {
 
     public Account(String accNo, String accName) {
         this.accNo = accNo;
-        this.accName = accName;
+        this.accName = accNam;
     }
 
     public String getAccNo() {
